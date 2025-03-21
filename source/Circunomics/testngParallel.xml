@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="3" parallel="classes" name="ParallelSuite">
+  <test name="ParallelTest">
+    <classes>
+      <class name="tests.ExternalAPIInteractionTest"/>
+      <class name="tests.InvalidLoginTest"/>
+      <class name="tests.CreateAccountExistingMailIDTest"/>
+    </classes>
+  </test> <!-- ParallelTest -->
+</suite> <!-- ParallelSuite -->

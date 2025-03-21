@@ -1,0 +1,7 @@
+url=https://magento.softwaretestingboard.com/
+firstName=John
+lastName=Doe
+existingEmail=shwetha13021995@gmail.com
+password=Password123!
+confirmPassword=Password123!
+expectedErrorMessage=There is already an account with this email address. If you are sure that it is your email address, click here to get your password and access your account.

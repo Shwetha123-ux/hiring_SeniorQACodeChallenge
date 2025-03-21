@@ -1,0 +1,7 @@
+url=https://magento.softwaretestingboard.com/
+username=shwetha1113@gmail.com
+password=Poiuyt$12345
+productName=Juno Jacket
+size=S
+color=Green
+quantity=1
